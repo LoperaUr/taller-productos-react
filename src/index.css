@@ -64,3 +64,8 @@ img {
   padding: 10px;
   margin-bottom: 10px;
 }
+
+.card-item:hover {
+  transition: 0.4s;
+  box-shadow: black 0px 0px 10px;
+}
