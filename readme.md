@@ -1,4 +1,4 @@
-### Taller React
+### Taller 1: React
 
 Toda la construcción se debe desarrollar tomando información desde un
 JSON con mínimo 50 registros, y cada registro debe tener mínimo 6 atributos cada uno
