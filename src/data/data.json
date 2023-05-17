@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta 1",
+    "price": 20,
+    "image": "https://patprimo.vteximg.com.br/arquivos/ids/1067173-1500-1800/camisetas-para-hombre-44090710-10_1.jpg?v=637697715032100000",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Camiseta 2",
+    "price": 20,
+    "image": "https://patprimo.vteximg.com.br/arquivos/ids/1067173-1500-1800/camisetas-para-hombre-44090710-10_1.jpg?v=637697715032100000",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Zapatos 1",
+    "price": 400,
+    "image": "https://i.ebayimg.com/thumbs/images/g/ZC0AAOSwRcRkIj4c/s-l300.jpg",
+    "type": "clothes",
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Zapatos 2",
+    "price": 40,
+    "image": "https://i.ebayimg.com/thumbs/images/g/ZC0AAOSwRcRkIj4c/s-l300.jpg",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Camisa 1",
+    "price": 40,
+    "image": "https://static.massimodutti.net/3/photos/2023/V/0/2/p/0145/445/406/0145445406_1_1_3.jpg?t=1677153331032",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Camisa 2",
+    "price": 40,
+    "image": "https://static.massimodutti.net/3/photos/2023/V/0/2/p/0145/445/406/0145445406_1_1_3.jpg?t=1677153331032",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Calcetines 1",
+    "price": 3,
+    "image": "https://grimey.com/media/catalog/product/cache/0f2735f55b8e91bbb5d0111aab313898/g/s/gso125-wht_calcetines_grimey_ufollow_-_white_01.jpg",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Calcetines 2",
+    "price": 3,
+    "image": "https://grimey.com/media/catalog/product/cache/0f2735f55b8e91bbb5d0111aab313898/g/s/gso125-wht_calcetines_grimey_ufollow_-_white_01.jpg",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "Ropa Interior 1",
+    "price": 5,
+    "image": "https://cdn-images.farfetch-contents.com/14/98/05/13/14980513_31284709_300.jpg",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Ropa Interior 2",
+    "price": 5,
+    "image": "https://cdn-images.farfetch-contents.com/14/98/05/13/14980513_31284709_300.jpg",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "Ropa Interior 3",
+    "price": 5,
+    "image": "https://cdn-images.farfetch-contents.com/14/98/05/13/14980513_31284709_300.jpg",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Ropa Interior 4",
+    "price": 5,
+    "image": "https://cdn-images.farfetch-contents.com/14/98/05/13/14980513_31284709_300.jpg ",
+    "type": "clothes",
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Reloj 1",
+    "price": 100,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/21245131_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 14,
+    "name": "Reloj 2",
+    "price": 100,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/21245131_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "Reloj 3",
+    "price": 100,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/21245131_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "Gorra 1",
+    "price": 70,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/24022388_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": false
+  },
+  {
+    "id": 17,
+    "name": "Gorra 2",
+    "price": 70,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/24022388_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "Gorra 3",
+    "price": 70,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/24022388_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 19,
+    "name": "Gorra 4",
+    "price": 70,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/24022388_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 20,
+    "name": "Gorra 4",
+    "price": 70,
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/24022388_1?wid=800&hei=800&qlt=70",
+    "type": "accessories",
+    "available": false
+  },
+  {
+    "id": 21,
+    "name": "Cadena 1",
+    "price": 200,
+    "image": "https://kevins.com.co/img/productos/0570001273.jpg",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 22,
+    "name": "Cadena 2",
+    "price": 200,
+    "image": "https://kevins.com.co/img/productos/0570001273.jpg",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 23,
+    "name": "Cadena 3",
+    "price": 200,
+    "image": "https://kevins.com.co/img/productos/0570001273.jpg",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 24,
+    "name": "Cadena 4",
+    "price": 200,
+    "image": "https://kevins.com.co/img/productos/0570001273.jpg",
+    "type": "accessories",
+    "available": true
+  },
+  {
+    "id": 25,
+    "name": "Motherboard 1",
+    "price": 1000,
+    "image": "https://storage-asset.msi.com/event/2022/cnd/Intel-700-Series/images/msi-pro_z790-p_wifi_ddr4-3d2.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 26,
+    "name": "Motherboard 2",
+    "price": 1000,
+    "image": "https://storage-asset.msi.com/event/2022/cnd/Intel-700-Series/images/msi-pro_z790-p_wifi_ddr4-3d2.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 27,
+    "name": "Motherboard 3",
+    "price": 1000,
+    "image": "https://storage-asset.msi.com/event/2022/cnd/Intel-700-Series/images/msi-pro_z790-p_wifi_ddr4-3d2.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 28,
+    "name": "Motherboard 4",
+    "price": 1000,
+    "image": "https://storage-asset.msi.com/event/2022/cnd/Intel-700-Series/images/msi-pro_z790-p_wifi_ddr4-3d2.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 29,
+    "name": "Motherboard 5",
+    "price": 1000,
+    "image": "https://storage-asset.msi.com/event/2022/cnd/Intel-700-Series/images/msi-pro_z790-p_wifi_ddr4-3d2.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 30,
+    "name": "Motherboard 6",
+    "price": 1000,
+    "image": "https://storage-asset.msi.com/event/2022/cnd/Intel-700-Series/images/msi-pro_z790-p_wifi_ddr4-3d2.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 31,
+    "name": "Processor 1",
+    "price": 1200,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991425-MLA45377134575_032021-O.jpg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 32,
+    "name": "Processor 2",
+    "price": 1400,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991425-MLA45377134575_032021-O.jpg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 33,
+    "name": "Processor 3",
+    "price": 1500,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991425-MLA45377134575_032021-O.jpg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 34,
+    "name": "Processor 4",
+    "price": 1600,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991425-MLA45377134575_032021-O.jpg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 35,
+    "name": "Processor 5",
+    "price": 1700,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991425-MLA45377134575_032021-O.jpg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 36,
+    "name": "Processor 6",
+    "price": 2000,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991425-MLA45377134575_032021-O.jpg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 37,
+    "name": "Grapich Card 1",
+    "price": 2000,
+    "image": "https://s3.us-east-2.amazonaws.com/ccp-prd-s3-uploads/2022/12/13/5fc38a4832ce9c5340f0424363a69096c177ec74.jpeg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 38,
+    "name": "Grapich Card 2",
+    "price": 2200,
+    "image": "https://s3.us-east-2.amazonaws.com/ccp-prd-s3-uploads/2022/12/13/5fc38a4832ce9c5340f0424363a69096c177ec74.jpeg",
+    "type": "pcComponents",
+    "available": false
+  },
+  {
+    "id": 39,
+    "name": "Grapich Card 3",
+    "price": 2300,
+    "image": "https://s3.us-east-2.amazonaws.com/ccp-prd-s3-uploads/2022/12/13/5fc38a4832ce9c5340f0424363a69096c177ec74.jpeg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 40,
+    "name": "Grapich Card 4",
+    "price": 2400,
+    "image": "https://s3.us-east-2.amazonaws.com/ccp-prd-s3-uploads/2022/12/13/5fc38a4832ce9c5340f0424363a69096c177ec74.jpeg",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 41,
+    "name": "Almacenamiento 1",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 42,
+    "name": "Almacenamiento 2",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 43,
+    "name": "Almacenamiento 3",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 44,
+    "name": "Almacenamiento 4",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 45,
+    "name": "Almacenamiento 5",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 46,
+    "name": "Almacenamiento 6",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 47,
+    "name": "Almacenamiento 7",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 48,
+    "name": "Almacenamiento 8",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 49,
+    "name": "Almacenamiento 9",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  },
+  {
+    "id": 50,
+    "name": "Almacenamiento 10",
+    "price": 700,
+    "image": "https://frontier.com.co/content/product/0009151_unidad-estado-solido-ssd-kingston-a400-960gb-25-sata-iii_415.png",
+    "type": "pcComponents",
+    "available": true
+  }
+]

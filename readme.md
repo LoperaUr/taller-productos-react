@@ -1,8 +1,7 @@
 ### Taller React
 
 Toda la construcción se debe desarrollar tomando información desde un
-JSON con mínimo 50 registros, y cada registro debe tener mínimo 6
-atributos cada uno
+JSON con mínimo 50 registros, y cada registro debe tener mínimo 6 atributos cada uno
 
 1. Se debe crear el menú de navegación que muestre tres opciones (Home y Listado de X cosas)
 2. El JSON o información debe estar creado en un archivo separado (no puede estar construido directamente en el componente)
