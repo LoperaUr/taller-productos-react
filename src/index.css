@@ -73,3 +73,17 @@ img {
 #disabled-button {
   color: #5c5470;
 }
+
+/* Main properties */
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.home-container h1 {
+  font-size: 3rem;
+}

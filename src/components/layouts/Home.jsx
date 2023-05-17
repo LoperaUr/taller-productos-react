@@ -5,7 +5,9 @@ const Home = () => {
     <section>
       <Header />
       <main>
-        <h1>Home</h1>
+        <div className='home-container'>
+          <h1>¡Bienvenido/a!</h1>
+        </div>
       </main>
     </section>
   )
